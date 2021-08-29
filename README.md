@@ -11,3 +11,5 @@ Monitoring multiple sensors data in Real-Time based on MATLAB. By this method yo
 # Notes
 
 I tested this method on Lis3mdl magnetometers, 40 Hz sampling rate, TCP/IP connection and monitoring 12 sensors simultaneously without any delay.
+
+![alt text](https://github.com/amirmohammadnsh/Plot-Multiple-Sensors-Data-in-MATLAB/blob/96cf8f6155ba9befbb59c5c6e8ee6f6652bc4d19/Monitoring-8-Sensors.jpg)
